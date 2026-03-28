@@ -8,7 +8,7 @@ cat << 'EOF' > README.md
 Este ecosistema de software está diseñado para transformar métricas crudas de infraestructura de red en **decisiones operativas proactivas**. Desarrollado pensando en los desafíos de escalabilidad y estabilidad de un **ISP (Internet Service Provider)**.
 
 ### 🎥 Demo en Vivo
-![Dashboard Demo](./images/gif.gif)
+![Dashboard Demo](images/gif.gif)
 
 ---
 
